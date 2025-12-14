@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @xu2431945213
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Tom
 
-<!---
-xu2431945213/xu2431945213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+一个喜欢折腾数码设备的普通玩家
+
+📱 平时爱玩手机、平板
+
+🔓 会 Root / 刷机 / 装模块 / 改系统
+
+🍎 iOS 这边主要是 TrollStore、装 IPA、多开
+
+🧩 不搞深层开发，更多是折腾、体验、实用向
+
+🛠️ 遇到问题就查、就试，解决了就很爽那种
+
+💡 About Me
+
+不算大神，只是爱玩
+
+不追参数，追好用、顺手、自由
+
+喜欢把设备玩成「自己想要的样子」
+
+📦 This GitHub
+
+记录自己折腾过的东西
+
+存点配置、教程、备忘
+
+方便以后自己翻，也希望能帮到同样爱玩的朋友
